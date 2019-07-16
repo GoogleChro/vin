@@ -1,4 +1,4 @@
-{
+bcnxj{
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
@@ -31,5 +31,7 @@
     "cleverbot-node": "^0.3.11",
     "moment-duration-format": "^2.2.2",
     "node": "^12.5.0"
+  },
+  "engines": {
+    "node": "8.x"
   }
-}
