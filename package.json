@@ -1,5 +1,5 @@
 {
-  "name": "Test",
+  "name": "Test"
   "description": "Test",
   "version": "0.0.0",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
+    "discord.js": "11.1.0"
     "request": "2.81.0",
     "enmap": "^4.8.6",
     "dotenv": "^8.0.0",
@@ -17,7 +17,6 @@
     "node-opus": "^0.3.2",
     "fs": "^0.0.2",
     "util": "^0.12.1",
-    "http": "^0.0.1",
     "cpu-stat": "^2.0.1",
     "os": "^0.1.1",
     "moment": "^2.24.0",
