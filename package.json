@@ -1,0 +1,35 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0",
+    "enmap": "^4.8.6",
+    "dotenv": "^8.0.0",
+    "ytdl-core": "^0.29.3",
+    "yt-search": "^0.4.1",
+    "quick.db": "^6.3.2",
+    "node-opus": "^0.3.2",
+    "fs": "^0.0.2",
+    "util": "^0.12.1",
+    "http": "^0.0.1",
+    "cpu-stat": "^2.0.1",
+    "os": "^0.1.1",
+    "moment": "^2.24.0",
+    "simple-youtube-api": "^5.2.1",
+    "opusscript": "^0.0.6",
+    "ytsearcher-cli": "^1.0.0",
+    "xtpl": "^3.4.0",
+    "ytpl": "^0.1.14",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "cleverbot-node": "^0.3.11",
+    "moment-duration-format": "^2.2.2",
+    "node": "^12.5.0"
+  }
+}
